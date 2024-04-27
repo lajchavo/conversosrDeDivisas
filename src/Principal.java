@@ -13,7 +13,7 @@ public class Principal {
         System.out.println("****************************************************************");
         System.out.println("Sea bienvenido al Conversor Universal: \nAnote en mayuscula, el codigo de divisa  de los paises a convertir, asi tambien la monto de dinero: " +
                 "\n\nEjemplo:USA Dolares= USD a Colones de Costa Rica= CRC, Monto= 90 Dolares...USD CRC 90" +
-                "\nEjemplo:Costa Rica= CRC a  USA Dolares= USD,  Monto= 90.8 Colones...CRC USD 90.8" +"\n\nCodigos de Divisa mas comunes:"+"\nDolar Americano= USD " + "\nReal Brazileno= BRL " +
+                "\nEjemplo:Costa Rica= CRC a  USA Dolares= USD,  Monto= 90.8 Colones...CRC USD 90.8" +"\n\nCodigos de Divisa mas comunes:"+"\nDolar Americano= USD " +"\nColon de Costa Rica= CRC"+ "\nReal Brazileno= BRL " +
                 "\nPeso Cubano= CUP" + "\nPeso Argentino= ARS " + "\nPeso Chileno= CLP " + "\nPeso Colombiano= COP " + "\nEspaña= EUR " );
 
         System.out.println("\n**************************************************************");
